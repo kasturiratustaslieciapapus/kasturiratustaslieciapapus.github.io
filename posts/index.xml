@@ -9,10 +9,30 @@
     <description>Recent content in Posts on Puslapiokas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Oct 2023 20:25:55 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2023 21:04:29 +0300</lastBuildDate>
     
 	<atom:link href="https://kasturiratustaslieciapapus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mewhenicallmybropookie Bear</title>
+      <link>https://kasturiratustaslieciapapus.github.io/posts/mewhenicallmybropookie-bear/</link>
+      <pubDate>Sun, 15 Oct 2023 21:04:29 +0300</pubDate>
+      
+      <guid>https://kasturiratustaslieciapapus.github.io/posts/mewhenicallmybropookie-bear/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          #include &amp;lt;iostream&amp;gt; #include &amp;lt;string&amp;gt; int main() { std::string bro = &amp;#34;Pookie-bear&amp;#34;; std::cout&amp;lt;&amp;lt;bro; } 
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Intro</title>
